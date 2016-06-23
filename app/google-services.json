@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "581700704660",
+    "firebase_url": "https://fcmtest-66d40.firebaseio.com",
+    "project_id": "fcmtest-66d40",
+    "storage_bucket": "fcmtest-66d40.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:581700704660:android:585ca5a6ef6d65c8",
+        "android_client_info": {
+          "package_name": "com.bdjobs.pushtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "581700704660-dc8870dpa5qglbvfiu4o4t819ej1cohg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBotE5L7GIlrNkm_64sEeZ3dEFrMI_7s3I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
